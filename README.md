@@ -32,7 +32,7 @@ A cross-platform mobile app to efficiently manage employee data, attendance, and
 
 | Home Screen | Employee List | Attendance |
 |-------------|---------------|------------|
-| ![Home](screenshots/home.png) | ![List](screenshots/list.png) | ![Attendance](screenshots/attendance.png) |
+| !WhatsApp Image 2025-06-05 at 10.33.06 PM.jpeg | ![List](screenshots/list.png) | ![Attendance](screenshots/attendance.png) |
 
 > Screenshots stored in `screenshots/` folder.
 
