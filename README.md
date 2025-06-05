@@ -32,7 +32,7 @@ A cross-platform mobile app to efficiently manage employee data, attendance, and
 
 | Home Screen | Employee List | Attendance |
 |-------------|---------------|------------|
-| !WhatsApp Image 2025-06-05 at 10.33.06 PM.jpeg | ![List](screenshots/list.png) | ![Attendance](screenshots/attendance.png) |
+| !WhatsApp Image 2025-06-05 at 10.33.06 PM.jpeg | [![List](screenshots/list.png)](https://github.com/Reverylina01/Employee-Managment-System-Using-React-Native/blob/1ca16ac07328cb7df353771c14ddf74a9c4bcd1a/WhatsApp%20Image%202025-06-05%20at%2010.33.07%20PM%20(1).jpeg) | ![Attendance](screenshots/attendance.png) |
 
 > Screenshots stored in `screenshots/` folder.
 
