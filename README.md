@@ -2,7 +2,6 @@
 
 A cross-platform mobile app to efficiently manage employee data, attendance, and roles. Built with **React Native**, this app simplifies HR tasks through a clean interface, real-time updates, and secure admin access.
 
-![Banner](screenshots/banner.png)
 
 ---
 
@@ -92,7 +91,7 @@ Attendance is marked daily
 Data is synced with MongoDB backend
 
 📬 Connect With Me
-Made with ❤️ @Shilpa Maity
+Made with ❤️ @shilpa-maity
 📧 Email: linadas970@gmail.com
 📱 LinkedIn: https://www.linkedin.com/in/linadas1
 
