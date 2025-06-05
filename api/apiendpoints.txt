@@ -1,0 +1,30 @@
+API Endpoints :
+
+//get all employees :
+http://localhost:8080/employees
+
+//get all attendences:
+http://localhost:8080/attendances 
+
+//register a employee 
+http://localhost:8080/addEmployee 
+parameters: 
+{employeeName, employeeId, 
+designation, phoneNumber, 
+dateOfBirth, joiningDate, 
+activeEmployee, salary, address}
+
+//post attendence 
+http://localhost:8080/attendances 
+parameters: 
+{employeeId, employeeName, date, status}
+
+//generate attendence summary report
+http://localhost:8080/attendances-report-all-employees`,
+{
+   params: {
+    month: 5,
+    year: 2025,
+  },
+}
+
