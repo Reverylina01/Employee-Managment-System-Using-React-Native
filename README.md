@@ -29,10 +29,8 @@ A cross-platform mobile app to efficiently manage employee data, attendance, and
 
 ## 🖼️ Screenshots
 
-| Home Screen | Employee List | Attendance |
-|-------------|---------------|------------|
-screenshots
-> Screenshots stored in `screenshots/` folder.
+![image](https://github.com/user-attachments/assets/47e19969-6410-41fe-a50a-b2ccdeb1e343)
+
 
 ---
 
