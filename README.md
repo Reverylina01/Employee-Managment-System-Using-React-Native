@@ -30,6 +30,8 @@ A cross-platform mobile app to efficiently manage employee data, attendance, and
 ## 🖼️ Screenshots
 
 ![image](https://github.com/user-attachments/assets/47e19969-6410-41fe-a50a-b2ccdeb1e343)
+![image](https://github.com/user-attachments/assets/7fbc6d73-4e64-48d3-8a98-176796b24b77)
+
 
 
 ---
