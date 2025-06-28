@@ -3,7 +3,7 @@
 A cross-platform mobile app to efficiently manage employee data, attendance, and roles. Built with **React Native**, this app simplifies HR tasks through a clean interface, real-time updates, and secure admin access.
 
 
----
+----
 
 ## 🚀 Features
 
